@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1423742020 source:e:\aed\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1423755672 source:e:\aed\exercício 2\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+

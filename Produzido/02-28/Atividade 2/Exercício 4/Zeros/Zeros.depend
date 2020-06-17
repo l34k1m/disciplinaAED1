@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425153450 source:c:\users\mikael\downloads\sdcz80-016g\documentos\ufabc\bacharelado em ciência e tecnologia\q6\algoritmos e estruturas de dados\produzido\02-28\atividade 2\exercício 4\zeros\main.c
+	<stdio.h>
+	<stdlib.h>
+

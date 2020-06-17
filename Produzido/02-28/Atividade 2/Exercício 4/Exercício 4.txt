@@ -1,0 +1,1 @@
+﻿A cada processo de alocação, quando a execução termina, o processo finaliza e não ocorre o acúmulo de requisições de memória. A memória só anda se mostrando ocupada quando é iniciado o processo de preenchimentos com zero, e ocorre grande demora para tal processo terminar.

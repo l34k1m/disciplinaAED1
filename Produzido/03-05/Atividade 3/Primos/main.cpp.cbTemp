@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    double num;
+    cout << "Entre com numero" << endl;
+    cin >> num;
+    cout << "O numero e" << num << endl;
+    return 0;
+}

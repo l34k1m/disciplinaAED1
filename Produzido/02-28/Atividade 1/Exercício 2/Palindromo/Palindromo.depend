@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1424751474 source:e:\palindromo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1425144982 source:c:\users\mikael\downloads\sdcz80-016g\documentos\ufabc\bacharelado em ciência e tecnologia\q6\algoritmos e estruturas de dados\produzido\02-28\atividade 1\exercício 2\palindromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

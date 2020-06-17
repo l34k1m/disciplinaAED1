@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425151855 source:c:\users\mikael\documents\c-b\dna\main.c
+	<stdio.h>
+	<stdlib.h>
+

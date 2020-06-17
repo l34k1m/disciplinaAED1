@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1424897278 source:c:\users\mikael\documents\c-b\selectionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1424904752 source:c:\users\mikael\documents\codeblocks projects\selectionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+

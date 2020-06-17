@@ -1,0 +1,1 @@
+Num teste de stack, consegui fazer com que o meu programa ocupasse cerca de 2MB de RAM. Testando alocação de HEAP num computador com sistema x64 e 8GB de RAM, não consegui chegar a uma conclusão de ocupação. De acordo com sistemas x86, o máximo de memória que pode ser alocada por processo é cerca de 2GB, enquanto que o x64 oferece suporte a muito mais.
